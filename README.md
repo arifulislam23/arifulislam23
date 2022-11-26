@@ -1,8 +1,12 @@
 <img align="center" width="100%" src="https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/curious/uploads/pictures/1516801711-1.gif" />
-<h1 align="center">Hi 👋, I'm Ariful Islam Akash</h1>
+<h1 align="center">Hi👨‍💻 , I'm Ariful Islam Akash</h1>
 <h3 align="center">ASP Dot Net Core Developer</h3>
 
 - 🌱 I’m currently learning **Visual Studio**
+
+- 💬 Ask me about **web application mvc**
+
+- 📫 How to reach me **arifulislam23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
