@@ -116,4 +116,4 @@ You can click the Preview link to take a look at your changes.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/rioariful"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:ariful.akash23@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+<a href = "t.me/arifulislamakash"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
