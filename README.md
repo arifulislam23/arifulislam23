@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=00F716&width=435&lines=Ariful+Islam+Akash" alt="Ariful Islam Akash" />
 
- <p>- <i>An experienced software developer with expertise in ASP.NET. I have previously worked with KS Apparels Ltd, where I successfully completed the development of a full payroll system. My ability to deliver high-quality software solutions, attention to detail, and dedication to meeting project deadlines has earned me a reputation as a reliable and skilled developer.</i></p>
-  <p>- <i>Currently, I am working with eWorld Ltd, where I bring my expertise to building innovative software solutions that meet the company's needs. I have a passion for technology and a commitment to staying up-to-date with the latest advancements in the field, making me a valuable asset to any software development team.</i></p>
+ <p>- <i>An experienced software developer with expertise in ASP.NET Core. I am working with eWorld Ltd, where I successfully completed the development of a full payroll system. My ability to deliver high-quality software solutions, attention to detail, and dedication to meeting project deadlines has earned me a reputation as a reliable and skilled developer.</i></p>
+ 
    <p>- <i>If you are in search of a skilled and experienced software developer who can deliver results, I am the perfect candidate. Please feel free to reach out to me to learn more about my skills and experience.</i></p>
 
 
@@ -16,7 +16,7 @@
 - 🔧 I’m currently working on ...Online Retail Community App.
 
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
+- 📖 I’m currently learning ...Angularjs.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me... ariful.akash23@gmail.com
 
